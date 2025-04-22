@@ -16,9 +16,13 @@ body * {
   h4 {
     font-weight: bold;
   }
-  
+  h1 {
+    color: lavenderblush;
+  }
   ul li {
     border: none !important;
+    border-left-color: pink;
+    border-style: dotted;
   }
   
   /*Containers*/
